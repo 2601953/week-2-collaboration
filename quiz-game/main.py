@@ -6,7 +6,7 @@ userAnswers = []
 
 for question in questions:
     print(question)
-    answer = input("Answer: ")
+    answer = input("Answer: ").lower()
     userAnswers.append(answer)
 
 print(f"Congrats! Your final score is {getMark(userAnswers)}")
