@@ -10,4 +10,4 @@ after each question you will be prompted for answer, e.g.
 
 At the end your score will be tallied and displayed, e.g.
 <br><br>
-```Congrats! Your final score if 5```
+```Congrats! Your final score is 5```
